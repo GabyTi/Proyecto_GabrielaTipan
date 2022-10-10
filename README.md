@@ -29,6 +29,7 @@ Modelo2: RandomForest
 Modelo3: Kneighbors
 Modelo4: SUPPORT VECTOR MACHINE
 
-Después de analizar mis predicciones y obtener mis resultados de predicción, matriz de confusión y precisión 
-considero que el mejor modelo de los 4 utilizados, para este proyecto, es SUPPORT VECTOR MACHINE ya que me dio 
-5 falsos negativos lo que también permitió obtener el valor más alto de precisión (0.97).
+Después de obtener y analizar mis resultados de predicción, matriz de confusión y precisión 
+considero que el mejor modelo de los 4 utilizados, para este proyecto, es SGDClassifier ya que me dio 
+4 falsos negativos lo que permitió obtener un valor de precisión de 0.97 
+A pesar de tener 1 falso positivo en este modelo, es el que menor número de falsos negativos tiene.
