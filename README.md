@@ -13,7 +13,7 @@ datos de buena calidad y así evitar contenido que no me aporte en mi predicció
 Detallo a continuación la limpieza realizada:
 
 1. El dataset no tenía encabezado, por lo cual agregué cabeceras para cada columna.
-2. Los cambios realizados los guardé en otro archivo idéntico al inicial para no perder la información original.
+2. Los cambios realizados los guardé en otro archivo idéntico al inicial para no perder la información original (wdbc2.csv)
 3. Verifiqué valores nulos
 4. Analicé cual es mi variable predictoria y al identificar que esta era de tipo object(string) la transformé
 en tipo int.
