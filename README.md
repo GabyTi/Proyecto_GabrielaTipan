@@ -14,7 +14,7 @@ Detallo a continuación la limpieza realizada:
 
 1. El dataset no tenía encabezado, por lo cual agregué cabeceras para cada columna.
 2. Los cambios realizados los guardé en otro archivo idéntico al inicial para no perder la información original (wdbc2.csv)
-3. Verifiqué valores nulos
+3. Verifiqué valores nulos.
 4. Analicé cual es mi variable predictoria y al identificar que esta era de tipo object(string) la transformé
 en tipo int.
 5. Eliminé la primera columna "id" ya que no me aportaba en nada a mi predicción.
